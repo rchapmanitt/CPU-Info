@@ -1,0 +1,12 @@
+{
+  "name": "get-cpu-info",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cpu", "core", "count", "model", "speed", "arch"],
+  "author": "",
+  "license": "ISC",
+  "description": "Returns cpu core count, model, speed & architecture information using nodejs 'os' module."
+}
